@@ -8,6 +8,9 @@ Neil Lal
 Final Project CS E23
 12/12/2021
 
+GITHUB REPO
+https://github.com/Neil-Lal/SuperMarioKart50
+
 ########################################################################################
 
 Super Mario Kart 50
